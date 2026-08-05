@@ -2,80 +2,46 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Daniel Lipka (NCT)\nVenue: Lecture Hall (Hörsaal)\, INF 410\, University Hospital Heidelberg\nDuration: 1h
-DTEND:20260907T150000Z
-LOCATION:Lecture Hall (Hörsaal)\, INF 410\, University Hospital Heidelberg
-DTSTART:20260907T140000Z
-SUMMARY:CRC1709: TBA
-UID:8a4f3f96-3857-42d8-8b48-990ff62eef36@8a4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Gabriel Miltenberger-Miltényi (Laboratório de Genética\, Faculdade de Medicina\, Universidade de Lisboa\; MVZ genetikum\, München)\nVenue: INF 440\, HS 272\nLink: mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de\nDuration: 1h
-DTEND:20260803T153000Z
-LOCATION:INF 440\, HS 272
-DTSTART:20260803T143000Z
-SUMMARY:Colloquium of the Institute of Human Genetics: Genes\, Lipids and Neurologic Diseases: New Insights into Biomarkers and Pathophysiology
-UID:19e1aea3-ece3-4f30-9b5b-ba50e6d4b7fa@19e1.org
-URL:mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Benedikt Goretzki (Isomorphic Labs)\nVenue: MPI for Medical Research\, Seminar Room A/B\nDuration: 1h
 DTEND:20260907T140000Z
 LOCATION:MPI for Medical Research\, Seminar Room A/B
 DTSTART:20260907T130000Z
 SUMMARY:Rudolf Mößbauer Colloquium: TBA
-UID:dd5a7761-5aba-4c0d-81d0-d58978db03b6@dd5a.org
+UID:4b404371-db64-4646-9108-84fe1a839d81@4b40.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Zihong Zhang (Interdisciplinary Center for Neurosciences)\, Merve Akan (Zentralinstitut für Seelische Gesundheit in Mannheim)\nVenue: INF328\, SR25\nLink: https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success\nDuration: 1h
-DTEND:20260722T120000Z
-LOCATION:INF328\, SR25
-DTSTART:20260722T110000Z
-SUMMARY:IZN Seminar: Roles of the NMDAR/TRPM4 complex in neuropathic pain\; Ibogaine rescues alcohol addiction-induced social deficit
-UID:691636c9-25a2-41e5-8b44-f49fe817755f@6916.org
-URL:https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success
+DESCRIPTION:Speaker: Sreenath Sasidharan Nair (EMBL-EBI)\nVenue: Online\nLink: https://embl-org.zoom.us/webinar/register/WN_AOHYfMPOTGyNFW6GMtHCbA#/registration\nDuration: 1h
+DTEND:20260909T143000Z
+LOCATION:Online
+DTSTART:20260909T133000Z
+SUMMARY:EMBL Webinar: Bringing structural biology to AI: exploring the PDBe MCP servers
+UID:c1e6bbdc-ab64-4672-87c4-3fa3096a4d4e@c1e6.org
+URL:https://embl-org.zoom.us/webinar/register/WN_AOHYfMPOTGyNFW6GMtHCbA#/registration
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Philipp Kellmeyer\, Sivam Suchak                                   (School of Business Informatics and Mathematics\, Universität Mannheim)\nVenue: INF 440\, HS 272\nLink: mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de\nDuration: 1h
-DTEND:20261216T163000Z
-LOCATION:INF 440\, HS 272
-DTSTART:20261216T153000Z
-SUMMARY:Colloquium of the Institute of Human Genetics: Hi-C Analysis of Epigenetic Memory in Diet-Induced Obesity
-UID:54919f1b-d344-4f2c-b441-82bd0342fa88@5491.org
-URL:mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de
+DESCRIPTION:Speaker: Itai Yanai (NYU Grossman School of Medicine)\nVenue: DKFZ (main building)\, main auditorium\nDuration: 1h
+DTEND:20261001T120000Z
+LOCATION:DKFZ (main building)\, main auditorium
+DTSTART:20261001T110000Z
+SUMMARY:Distinguished Lecturer Seminar Series: TBA
+UID:f79e3394-ebac-45e5-b60a-51b02848d971@f79e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Brian Huntly (University of Cambridge)\nVenue: Lecture Hall (Hörsaal)\, INF 410\, University Hospital Heidelberg\nDuration: 1h
-DTEND:20260727T150000Z
+DESCRIPTION:Speaker: Daniel Lipka (NCT)\nVenue: Lecture Hall (Hörsaal)\, INF 410\, University Hospital Heidelberg\nDuration: 1h
+DTEND:20260907T150000Z
 LOCATION:Lecture Hall (Hörsaal)\, INF 410\, University Hospital Heidelberg
-DTSTART:20260727T140000Z
-SUMMARY:CRC 1709: TBA
-UID:1ddca5cf-10bd-4a4a-9d7c-9de863627fa8@1ddc.org
+DTSTART:20260907T140000Z
+SUMMARY:CRC1709: TBA
+UID:ff3c291c-759c-465e-a385-bf25a68b8460@ff3c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Peter Huber (DKFZ)\nVenue: DKFZ Lecture Hall\nDuration: 1h
-DTEND:20260727T150000Z
-LOCATION:DKFZ Lecture Hall
-DTSTART:20260727T140000Z
-SUMMARY:SCIENCE@DKFZ: Desired and adverse effects of cancer radiotherapy
-UID:afcaa8fd-f774-45fe-b1ad-cab0556ad606@afca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Matias Wagner (Institut für Humangenetik\, Klinikum der Technischen Universität München)\nVenue: INF 440\, HS 272\nLink: mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de\nDuration: 1h
-DTEND:20260729T153000Z
-LOCATION:INF 440\, HS 272
-DTSTART:20260729T143000Z
-SUMMARY:Colloquium of the Institute of Human Genetics: n-of-1 ASO treatments for neurogenetic disorders - preclinial conceps and lessons   learned
-UID:36c20a0d-af35-4de0-a98b-1905bb4c2d74@36c2.org
-URL:mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Mallika Singh (Revolution Medicine)\nVenue: DKFZ\, Main Auditorium\nDuration: 1h
-DTEND:20260831T120000Z
-LOCATION:DKFZ\, Main Auditorium
-DTSTART:20260831T110000Z
-SUMMARY:Distinguished Lecturer Seminar Series: Targeting the Oncogenic State of RAS with Tri-Complex Inhibitors
-UID:11c56a99-55fc-4f57-a07e-e863eddd2361@11c5.org
+DESCRIPTION:Speaker: Valery Grinevich (Neuropeptide Research in Psychiatry\, Central Institute of Mental Health) ​\nVenue: INF 328\, SR25\nLink: https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success\nDuration: 1h
+DTEND:20261007T120000Z
+LOCATION:INF 328\, SR25
+DTSTART:20261007T110000Z
+SUMMARY:IZN Concepts Talk: Operating Principles Of Peptide Signaling In The Brain
+UID:994e05b0-4c9e-4912-8808-ddcd78d4de17@994e.org
+URL:https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Servane Tauszig (French Society for Cell Biology (SCBF)\, Lyon\, France)\nVenue: INF328\, SR25\nLink: https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success\nDuration: 1h
@@ -83,16 +49,25 @@ DTEND:20260923T120000Z
 LOCATION:INF328\, SR25
 DTSTART:20260923T110000Z
 SUMMARY:IZN Lecture: TBA
-UID:2af71dc6-40bd-48b9-83bd-624efb6db1fb@2af7.org
+UID:2c346f2d-ced0-4541-bb81-3631eb0c7778@2c34.org
 URL:https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Nikolaus Pfanner (University of Freiburg)\nVenue: INF 328\, Ground Floor\, SR 25\nDuration: 1h
-DTEND:20260728T121500Z
-LOCATION:INF 328\, Ground Floor\, SR 25
-DTSTART:20260728T111500Z
-SUMMARY:BZH Guest Lecture: Mitochondrial machineries for import and assembly of proteins
-UID:e67f7985-92d6-453f-8fdf-4230c6fd196b@e67f.org
+DESCRIPTION:Speaker: Ed Lyman (University of Delaware)\nVenue: INF 328\, SR 25\nDuration: 1h
+DTEND:20261006T111500Z
+LOCATION:INF 328\, SR 25
+DTSTART:20261006T101500Z
+SUMMARY:BZH - ZMBH Guest Lecture: TBA
+UID:35857a78-1a48-46b5-a75c-115058fdcd34@3585.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Philipp Kellmeyer\, Sivam Suchak                                   (School of Business Informatics and Mathematics\, Universität Mannheim)\nVenue: INF 440\, HS 272\nLink: mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de\nDuration: 1h
+DTEND:20261216T163000Z
+LOCATION:INF 440\, HS 272
+DTSTART:20261216T153000Z
+SUMMARY:Colloquium of the Institute of Human Genetics: Hi-C Analysis of Epigenetic Memory in Diet-Induced Obesity
+UID:2d0fb3b2-8e01-4a1e-90e1-752724445cc6@2d0f.org
+URL:mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Marylyn M. Addo (University Medical Center Hamburg-Eppendorf (UKE))\nVenue: BioQuant Lecture Hall SR41\nDuration: 1h
@@ -100,23 +75,14 @@ DTEND:20260825T140000Z
 LOCATION:BioQuant Lecture Hall SR41
 DTSTART:20260825T130000Z
 SUMMARY:BioQuant Seminar: Vaccine Development Against Emerging and Chronic Viral Infections: From Basic Research to Clinical Application
-UID:b5a1d902-267b-460e-82e5-bd4e405e521f@b5a1.org
+UID:3e2b7935-0ec0-4c8f-8e88-36257a465859@3e2b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Jürgen Debus (DKFZ)\nVenue: Online\nLink: https://indico.dkfz.de/event/380/\nDuration: 1h
-DTEND:20260723T080000Z
-LOCATION:Online
-DTSTART:20260723T070000Z
-SUMMARY:Progress in Cancer Research Lecture Series: Precise And Personalized: Advances In Radiation Oncology
-UID:83e168d5-0b95-4c5c-83d2-76c0639cc764@83e1.org
-URL:https://indico.dkfz.de/event/380/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Max Kellner (Helmholtz Center for Infection Research)\nVenue: CIID\, SR 003/004\nDuration: 1h
-DTEND:20260728T161500Z
-LOCATION:CIID\, SR 003/004
-DTSTART:20260728T151500Z
-SUMMARY:Virology CIID Seminar: A reservoir perspective on mammalian antiviral immunity: insights from organoid models
-UID:80bbd9ba-6bfa-4d02-9b61-78cef2cc4ab7@80bb.org
+DESCRIPTION:Speaker: Mallika Singh (Revolution Medicine)\nVenue: DKFZ\, Main Auditorium\nDuration: 1h
+DTEND:20260831T120000Z
+LOCATION:DKFZ\, Main Auditorium
+DTSTART:20260831T110000Z
+SUMMARY:Distinguished Lecturer Seminar Series: Targeting the Oncogenic State of RAS with Tri-Complex Inhibitors
+UID:69a51511-bc35-4632-ad91-fcf566981c85@69a5.org
 END:VEVENT
 END:VCALENDAR
