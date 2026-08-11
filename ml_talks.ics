@@ -2,39 +2,30 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260830
-DESCRIPTION:Speaker: Workshop The third “European AI for Fundamental Physics Conference” (EuCAIFCon) will be held in Heidelberg\, from 24th to 28th of August 2026. The aim of this event is to provide a platform for establishing new connections between AI activities across various branches of fundamental physics\, by bringing together researchers that face similar challenges and/or use similar AI solutions. The conference will be organized “horizontally”: sessions are centered on specific AI methods and themes\, while being cross-disciplinary regarding the scientific questions. EuCAIFCon 2026 is organised by EuCAIF\nHost: Tilman Plehn\nVenue: see website\nLink: https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview\nDuration: 120h
-LOCATION:see website
-SUMMARY:Conference: EuCAIF
-UID:a18f027c-a8ea-4a95-8f90-f33127d59d06@a18f.org
-URL:https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview
+DESCRIPTION:Speaker: Are generative video models the path towards solving visual intelligence ? Robert Geirhos is coming to Heidelberg to talk about one of the more interesting questions in AI right now: are video models quietly turning into general-purpose vision models\, the same way LLMs became general-purpose language models? Think about how much language models changed things. A few years back you needed a separate model for every job: one for translation\, a different one for summarizing\, another for answering questions. Then LLMs showed up and you could suddenly do all of it by just asking. The recipe behind that shift was pretty plain once you saw it: take a big generative model and train it on a huge pile of web data. Robert's argument is that the same thing might be starting to happen in vision\, and video is where to look. His team has been investigating Veo 3\, and it keeps doing things nobody trained it to do. It can pick objects out of a scene\, find edges\, edit images\, reason about how physical objects behave\, work out what you can actually do with an object\, and even solve mazes and symmetry puzzles. None of that was the training goal. It just emerged\, the same way many LLM abilities did. If that pattern holds up\, it is a big deal. It hints at a future where one vision model handles most perception tasks instead of requiring a new specialized model every single time. This evening is worth joining whether you build with these systems\, research them\, or are simply curious about where they are headed. You will hear the case from one of the people actually making it\nHost: heidelberg.ai\nVenue: BioQuant\, Room SR041\, Im Neuenheimer Feld 267\, Heidelberg\nLink: https://heidelberg.ai/2026/08/18/robert-geirhos.html\nDuration: 1h 30m
+DTEND:20260818T163000Z
+LOCATION:BioQuant\, Room SR041\, Im Neuenheimer Feld 267\, Heidelberg
+DTSTART:20260818T150000Z
+SUMMARY:Vision's LLM Moment: an evening with Robert Geirhos (Google DeepMind)
+UID:833eceb5-96e2-4fd8-82ec-661b795c93a4@833e.org
+URL:https://heidelberg.ai/2026/08/18/robert-geirhos.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Liam Keegan As agentic coding tools like Claude Code and Codex CLI make generating code faster\, validating the correctness of this code becomes more important than ever. In this course you will learn how to apply test-driven development and software testing best practices in the context of agentic software development. By writing tests before the implementation\, our test suite not only verifies correctness\, but also defines a clear specification of what the code should and should not do\nHost: Scientific Software Center\nVenue: Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104 on the 5th floor\nLink: https://www.ssc.uni-heidelberg.de/en/agentic-test-driven-development\nDuration: 3h 30m
-DTEND:20260723T110000Z
-LOCATION:Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104 on the 5th floor
-DTSTART:20260723T073000Z
-SUMMARY:Compact course: Agentic Test-Driven Development
-UID:59f895ca-1ca9-4e73-811e-fe0e96557b25@59f8.org
-URL:https://www.ssc.uni-heidelberg.de/en/agentic-test-driven-development
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260927
 DESCRIPTION:Speaker: IWR School 2026  The summer school is designed for PhD students who want to leverage state-of-the-art AI in their research. Applicants may come from any scientific discipline\, including physics\, biology\, medicine\, neuroscience\, and climate science. The school offers a comprehensive overview of key topics in Artificial Intelligence and Machine Learning\, including Generative AI\, Explainability\, Simulation-based Inference\, Agentic AI\, Robustness and Validation of AI Methods\, Vision-Language Models\, Self-Supervised Learning\, Knowledge Integration\, and Causality. In addition to expert lectures\, the program features hands-on sessions and best-practice sessions focused on how to use the latest AI tools in research. Participants are expected to have a solid understanding of the core concepts of machine learning\nHost: Scientific Organizer: Carsten Rother Ulrich Köthe Co-Organizer: Konrad Zuse School of Excellence in Learning and Intelligent Systems (ELIZA)\nVenue: Mathematikon Im Neuenheimer Feld 205 69120 Heidelberg\nLink: https://www.iwr.uni-heidelberg.de/en/iwr-school-2026\nDuration: 120h
+DTEND:20260925T220000Z
 LOCATION:Mathematikon Im Neuenheimer Feld 205 69120 Heidelberg
+DTSTART:20260920T220000Z
 SUMMARY:AI for Science
-UID:460ede7b-06d2-4ca4-8505-428c15ac46b2@460e.org
+UID:c84bc198-ee46-465c-b4bf-0ec9c0b556de@c84b.org
 URL:https://www.iwr.uni-heidelberg.de/en/iwr-school-2026
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: IV: Maschinelles Lernen verstehen – eine physikalische Perspektive Können physikalische Systeme neue Arten Künstlicher Intelligenz verkörpern? Vortrag von Dr. Miriam Klopotek I Stuttgart und PD Dr. Eric Raidl I Tübingen Algorithmen des maschinellen Lernens (ML) durchdringen zunehmend unser Leben. Sie sagen vorher\, aber ihre Entscheidungen bleiben oft opak\, d.h. unzugänglich oder unverständlich. Richtlinien und Experten fordern mehr Transparenz und Erklärungen\, als seien ML-Algorithmen Kommunikationspartner. Wir betrachten sie als physikalische Systeme\, die mit ihrer Umwelt interagieren. Dies öffnet neue Perspektiven für unser Verständnis: Maschinelles Lernen ist eine Art anpassungsfähiges Verhalten. Opakheit entsteht durch Komplexität\, die je nach Abstraktionsebene reduziert werden kann oder nicht. Verständnis entsteht dann nicht durch mehr Transparenz oder Erklärungen\, auch nicht durch weniger Komplexität\, sondern durch einen sinnvollen Wechsel der Abstraktionsebene. Die physikalische Perspektive gibt auch Anstöße für eine neue Generation von KI: wenn ML-Algorithmen physikalische Systeme simulieren können\, ist dies auch umkehrbar\, und somit können physikalische Systeme neue Arten Künstlicher Intelligenz verkörpern\nHost: Heidelberger Akademie der Wissenschaften\nVenue: Heidelberger Akademie der Wissenschaften\, Karlstraße 4\nLink: https://www.hadw-bw.de/maschinelles-lernen-verstehen\nDuration: 1h
-DTEND:20260722T171500Z
-LOCATION:Heidelberger Akademie der Wissenschaften\, Karlstraße 4
-DTSTART:20260722T161500Z
-SUMMARY:Wir forschen. Für Sie.
-UID:74b4df83-c570-4c2d-be75-274a59ba11f1@74b4.org
-URL:https://www.hadw-bw.de/maschinelles-lernen-verstehen
+DESCRIPTION:Speaker: Workshop The third “European AI for Fundamental Physics Conference” (EuCAIFCon) will be held in Heidelberg\, from 24th to 28th of August 2026. The aim of this event is to provide a platform for establishing new connections between AI activities across various branches of fundamental physics\, by bringing together researchers that face similar challenges and/or use similar AI solutions. The conference will be organized “horizontally”: sessions are centered on specific AI methods and themes\, while being cross-disciplinary regarding the scientific questions. EuCAIFCon 2026 is organised by EuCAIF\nHost: Tilman Plehn\nVenue: see website\nLink: https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview\nDuration: 120h
+DTEND:20260828T220000Z
+LOCATION:see website
+DTSTART:20260823T220000Z
+SUMMARY:Conference: EuCAIF
+UID:180fe32f-b13b-4be7-85be-5802f9bd56e2@180f.org
+URL:https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview
 END:VEVENT
 END:VCALENDAR
