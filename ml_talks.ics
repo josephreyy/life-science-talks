@@ -7,25 +7,25 @@ DTEND:20260818T163000Z
 LOCATION:BioQuant\, Room SR041\, Im Neuenheimer Feld 267\, Heidelberg
 DTSTART:20260818T150000Z
 SUMMARY:Vision's LLM Moment: an evening with Robert Geirhos (Google DeepMind)
-UID:833eceb5-96e2-4fd8-82ec-661b795c93a4@833e.org
+UID:65e918c5-0c9c-4948-8e5b-b8c99aa57b38@65e9.org
 URL:https://heidelberg.ai/2026/08/18/robert-geirhos.html
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260927
 DESCRIPTION:Speaker: IWR School 2026  The summer school is designed for PhD students who want to leverage state-of-the-art AI in their research. Applicants may come from any scientific discipline\, including physics\, biology\, medicine\, neuroscience\, and climate science. The school offers a comprehensive overview of key topics in Artificial Intelligence and Machine Learning\, including Generative AI\, Explainability\, Simulation-based Inference\, Agentic AI\, Robustness and Validation of AI Methods\, Vision-Language Models\, Self-Supervised Learning\, Knowledge Integration\, and Causality. In addition to expert lectures\, the program features hands-on sessions and best-practice sessions focused on how to use the latest AI tools in research. Participants are expected to have a solid understanding of the core concepts of machine learning\nHost: Scientific Organizer: Carsten Rother Ulrich Köthe Co-Organizer: Konrad Zuse School of Excellence in Learning and Intelligent Systems (ELIZA)\nVenue: Mathematikon Im Neuenheimer Feld 205 69120 Heidelberg\nLink: https://www.iwr.uni-heidelberg.de/en/iwr-school-2026\nDuration: 120h
-DTEND:20260925T220000Z
 LOCATION:Mathematikon Im Neuenheimer Feld 205 69120 Heidelberg
-DTSTART:20260920T220000Z
 SUMMARY:AI for Science
-UID:c84bc198-ee46-465c-b4bf-0ec9c0b556de@c84b.org
+UID:7e94f3c6-8634-4a51-b56f-fb5db1181249@7e94.org
 URL:https://www.iwr.uni-heidelberg.de/en/iwr-school-2026
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260830
 DESCRIPTION:Speaker: Workshop The third “European AI for Fundamental Physics Conference” (EuCAIFCon) will be held in Heidelberg\, from 24th to 28th of August 2026. The aim of this event is to provide a platform for establishing new connections between AI activities across various branches of fundamental physics\, by bringing together researchers that face similar challenges and/or use similar AI solutions. The conference will be organized “horizontally”: sessions are centered on specific AI methods and themes\, while being cross-disciplinary regarding the scientific questions. EuCAIFCon 2026 is organised by EuCAIF\nHost: Tilman Plehn\nVenue: see website\nLink: https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview\nDuration: 120h
-DTEND:20260828T220000Z
 LOCATION:see website
-DTSTART:20260823T220000Z
 SUMMARY:Conference: EuCAIF
-UID:180fe32f-b13b-4be7-85be-5802f9bd56e2@180f.org
+UID:4d845edc-48e2-4f13-9422-75c742dfd17f@4d84.org
 URL:https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview
 END:VEVENT
 END:VCALENDAR
