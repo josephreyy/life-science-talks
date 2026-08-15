@@ -2,22 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Are generative video models the path towards solving visual intelligence ? Robert Geirhos is coming to Heidelberg to talk about one of the more interesting questions in AI right now: are video models quietly turning into general-purpose vision models\, the same way LLMs became general-purpose language models? Think about how much language models changed things. A few years back you needed a separate model for every job: one for translation\, a different one for summarizing\, another for answering questions. Then LLMs showed up and you could suddenly do all of it by just asking. The recipe behind that shift was pretty plain once you saw it: take a big generative model and train it on a huge pile of web data. Robert's argument is that the same thing might be starting to happen in vision\, and video is where to look. His team has been investigating Veo 3\, and it keeps doing things nobody trained it to do. It can pick objects out of a scene\, find edges\, edit images\, reason about how physical objects behave\, work out what you can actually do with an object\, and even solve mazes and symmetry puzzles. None of that was the training goal. It just emerged\, the same way many LLM abilities did. If that pattern holds up\, it is a big deal. It hints at a future where one vision model handles most perception tasks instead of requiring a new specialized model every single time. This evening is worth joining whether you build with these systems\, research them\, or are simply curious about where they are headed. You will hear the case from one of the people actually making it\nHost: heidelberg.ai\nVenue: BioQuant\, Room SR041\, Im Neuenheimer Feld 267\, Heidelberg\nLink: https://heidelberg.ai/2026/08/18/robert-geirhos.html\nDuration: 1h 30m
-DTEND:20260818T163000Z
-LOCATION:BioQuant\, Room SR041\, Im Neuenheimer Feld 267\, Heidelberg
-DTSTART:20260818T150000Z
-SUMMARY:Vision's LLM Moment: an evening with Robert Geirhos (Google DeepMind)
-UID:65e918c5-0c9c-4948-8e5b-b8c99aa57b38@65e9.org
-URL:https://heidelberg.ai/2026/08/18/robert-geirhos.html
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260927
-DESCRIPTION:Speaker: IWR School 2026  The summer school is designed for PhD students who want to leverage state-of-the-art AI in their research. Applicants may come from any scientific discipline\, including physics\, biology\, medicine\, neuroscience\, and climate science. The school offers a comprehensive overview of key topics in Artificial Intelligence and Machine Learning\, including Generative AI\, Explainability\, Simulation-based Inference\, Agentic AI\, Robustness and Validation of AI Methods\, Vision-Language Models\, Self-Supervised Learning\, Knowledge Integration\, and Causality. In addition to expert lectures\, the program features hands-on sessions and best-practice sessions focused on how to use the latest AI tools in research. Participants are expected to have a solid understanding of the core concepts of machine learning\nHost: Scientific Organizer: Carsten Rother Ulrich Köthe Co-Organizer: Konrad Zuse School of Excellence in Learning and Intelligent Systems (ELIZA)\nVenue: Mathematikon Im Neuenheimer Feld 205 69120 Heidelberg\nLink: https://www.iwr.uni-heidelberg.de/en/iwr-school-2026\nDuration: 120h
-LOCATION:Mathematikon Im Neuenheimer Feld 205 69120 Heidelberg
-SUMMARY:AI for Science
-UID:7e94f3c6-8634-4a51-b56f-fb5db1181249@7e94.org
-URL:https://www.iwr.uni-heidelberg.de/en/iwr-school-2026
+DESCRIPTION:Speaker: Natan T. Shaked\, Chair of the Department of Biomedical Engineering at Tel Aviv University Rare-cell detection in liquid biopsies is particularly challenging because target cells occur at extremely low concentrations within large populations of blood cells. To address this challenge\, I will present a label-free imaging flow cytometry platform that combines a high-speed motion-sensitive event-based camera\, real-time neural networks\, and interferometric phase microscopy. Cells flowing through a microfluidic channel are continuously monitored by the event-based camera\, which captures sparse temporal information at very high acquisition rates while generating minimal data for real-time classification using spiking neural networks. Upon detection of a potential rare cell\, the event-based system triggers a slower interferometric imaging module to acquire a single-shot quantitative phase measurement for more detailed analysis\nHost: KIP\nVenue: EINC building\, Im Neuenheimer Feld 225a\, Heidelberg\, Seminar room R00.222 (ground floor)\nLink: https://www.kip.uni-heidelberg.de/aktuelles/details.php?id=2124#start\nDuration: 1h
+DTEND:20261001T083000Z
+LOCATION:EINC building\, Im Neuenheimer Feld 225a\, Heidelberg\, Seminar room R00.222 (ground floor)
+DTSTART:20261001T073000Z
+SUMMARY:Real-Time Deep Learning for Label-Free Imaging Flow Cytometry
+UID:f3d3cc63-1a47-4aa1-bcd2-d6b006cfdd13@f3d3.org
+URL:https://www.kip.uni-heidelberg.de/aktuelles/details.php?id=2124#start
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260824
@@ -25,7 +16,25 @@ DTEND;VALUE=DATE:20260830
 DESCRIPTION:Speaker: Workshop The third “European AI for Fundamental Physics Conference” (EuCAIFCon) will be held in Heidelberg\, from 24th to 28th of August 2026. The aim of this event is to provide a platform for establishing new connections between AI activities across various branches of fundamental physics\, by bringing together researchers that face similar challenges and/or use similar AI solutions. The conference will be organized “horizontally”: sessions are centered on specific AI methods and themes\, while being cross-disciplinary regarding the scientific questions. EuCAIFCon 2026 is organised by EuCAIF\nHost: Tilman Plehn\nVenue: see website\nLink: https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview\nDuration: 120h
 LOCATION:see website
 SUMMARY:Conference: EuCAIF
-UID:4d845edc-48e2-4f13-9422-75c742dfd17f@4d84.org
+UID:aed8644a-b0ac-4012-94f2-8bb2d0a0b336@aed8.org
 URL:https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260927
+DESCRIPTION:Speaker: IWR School 2026  The summer school is designed for PhD students who want to leverage state-of-the-art AI in their research. Applicants may come from any scientific discipline\, including physics\, biology\, medicine\, neuroscience\, and climate science. The school offers a comprehensive overview of key topics in Artificial Intelligence and Machine Learning\, including Generative AI\, Explainability\, Simulation-based Inference\, Agentic AI\, Robustness and Validation of AI Methods\, Vision-Language Models\, Self-Supervised Learning\, Knowledge Integration\, and Causality. In addition to expert lectures\, the program features hands-on sessions and best-practice sessions focused on how to use the latest AI tools in research. Participants are expected to have a solid understanding of the core concepts of machine learning\nHost: Scientific Organizer: Carsten Rother Ulrich Köthe Co-Organizer: Konrad Zuse School of Excellence in Learning and Intelligent Systems (ELIZA)\nVenue: Mathematikon Im Neuenheimer Feld 205 69120 Heidelberg\nLink: https://www.iwr.uni-heidelberg.de/en/iwr-school-2026\nDuration: 120h
+LOCATION:Mathematikon Im Neuenheimer Feld 205 69120 Heidelberg
+SUMMARY:AI for Science
+UID:6b95dc21-4c25-4bc8-9fb4-73129bbfab34@6b95.org
+URL:https://www.iwr.uni-heidelberg.de/en/iwr-school-2026
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Are generative video models the path towards solving visual intelligence ? Robert Geirhos is coming to Heidelberg to talk about one of the more interesting questions in AI right now: are video models quietly turning into general-purpose vision models\, the same way LLMs became general-purpose language models? Think about how much language models changed things. A few years back you needed a separate model for every job: one for translation\, a different one for summarizing\, another for answering questions. Then LLMs showed up and you could suddenly do all of it by just asking. The recipe behind that shift was pretty plain once you saw it: take a big generative model and train it on a huge pile of web data. Robert's argument is that the same thing might be starting to happen in vision\, and video is where to look. His team has been investigating Veo 3\, and it keeps doing things nobody trained it to do. It can pick objects out of a scene\, find edges\, edit images\, reason about how physical objects behave\, work out what you can actually do with an object\, and even solve mazes and symmetry puzzles. None of that was the training goal. It just emerged\, the same way many LLM abilities did. If that pattern holds up\, it is a big deal. It hints at a future where one vision model handles most perception tasks instead of requiring a new specialized model every single time. This evening is worth joining whether you build with these systems\, research them\, or are simply curious about where they are headed. You will hear the case from one of the people actually making it\nHost: heidelberg.ai\nVenue: BioQuant\, Room SR041\, Im Neuenheimer Feld 267\, Heidelberg\nLink: https://heidelberg.ai/2026/08/18/robert-geirhos.html\nDuration: 1h 30m
+DTEND:20260818T163000Z
+LOCATION:BioQuant\, Room SR041\, Im Neuenheimer Feld 267\, Heidelberg
+DTSTART:20260818T150000Z
+SUMMARY:Vision's LLM Moment: an evening with Robert Geirhos (Google DeepMind)
+UID:00ceaf47-e6f7-4696-9909-dbea982e202a@00ce.org
+URL:https://heidelberg.ai/2026/08/18/robert-geirhos.html
 END:VEVENT
 END:VCALENDAR
